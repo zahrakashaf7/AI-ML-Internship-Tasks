@@ -43,7 +43,6 @@ The target variable is the **next day's closing price**, created by shifting the
 
 - **Linear Regression**
   - A basic and interpretable model to fit linear relationships between the features and the target.
-- *(Random Forest was also tested separately but this README focuses on the linear regression results.)*
 
 # Key Results and Findings
 
