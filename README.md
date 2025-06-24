@@ -1,15 +1,15 @@
-# AI-ML-Internship-Tasks
+## AI-ML-Internship-Tasks
  My tasks for the AI/ML Engineering Internship at DevelopersHub
 
-# Task 1: Exploring and Visualizing a Simple Dataset
+## Task 1: Exploring and Visualizing a Simple Dataset
 
-# Objective:
+## Objective:
 Explore and visualize the **Iris dataset** to understand feature relationships and data distribution using Python.
 
-# Dataset Used:
+## Dataset Used:
 [Iris Dataset (built-in in Seaborn)](https://en.wikipedia.org/wiki/Iris_flower_data_set)
 
-# Key Results and Findings:
+## Key Results and Findings:
 - Petal features clearly separate species visually and in classification.
 - Setosa flowers are clearly separable using petal features.
 - Feature distributions are fairly normal.
@@ -17,14 +17,14 @@ Explore and visualize the **Iris dataset** to understand feature relationships a
 
 -----
 
-# Task 2: Predict Future Stock Prices (Short-Term)
+## Task 2: Predict Future Stock Prices (Short-Term)
 
-# Objective:
+## Objective:
 
 The goal of this task is to predict the **next day's closing stock price** using historical stock market data.  
 We utilize regression models to learn from historical trends and make short-term price forecasts.
 
-# Dataset Used
+## Dataset Used
 
 - **Stock:** Apple Inc. (AAPL)
 - **Source:** Yahoo Finance
@@ -40,12 +40,12 @@ The dataset includes the following features:
 
 The target variable is the **next day's closing price**, created by shifting the `Close` column by -1.
 
-# Models Applied
+## Models Applied
 
 - **Linear Regression**
   - A basic and interpretable model to fit linear relationships between the features and the target.
 
-# Key Results and Findings
+## Key Results and Findings
 
 - The **Linear Regression model** performed well in capturing the trend of closing prices.
 - The **predicted values closely followed** the actual closing prices, as shown in the visualization.
@@ -57,14 +57,14 @@ The target variable is the **next day's closing price**, created by shifting the
 
 # Task 3: Heart Disease Prediction
 
-## 📌 Task Objective
+## Task Objective
 
 Build a classification model that predicts whether a patient is at risk of heart disease based on their clinical and health-related features.  
 This task uses real-world medical data to train and evaluate a binary classification model that can assist in early diagnosis.
 
 
 
-## 📂 Dataset Used
+## Dataset Used
 
 - **Name:** Heart Disease UCI Dataset  
 - **Source:** [Kaggle - Ronitf/heart-disease-uci](https://www.kaggle.com/datasets/ronitf/heart-disease-uci)  
@@ -74,14 +74,14 @@ This task uses real-world medical data to train and evaluate a binary classifica
 
 
 
-## 🧠 Models Applied
+## Models Applied
 
-- ✅ **Logistic Regression**  
+- **Logistic Regression**  
   A linear classification model ideal for binary outcomes and interpretable in healthcare settings.
 
 
 
-## 📊 Key Results and Findings
+## Key Results and Findings
 
 - **Accuracy:** 79.5%  
 - **ROC-AUC Score:** 0.88  
@@ -94,7 +94,7 @@ This task uses real-world medical data to train and evaluate a binary classifica
 
 
 
-## ✅ Conclusion
+## Conclusion
 
 - The Logistic Regression model demonstrated strong performance in predicting heart disease risk based on patient data.
 - AUC score of 0.88 indicates the model can effectively distinguish between patients at risk and not at risk.
