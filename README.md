@@ -67,7 +67,7 @@ This task uses real-world medical data to train and evaluate a binary classifica
 ## Dataset Used
 
 - **Name:** Heart Disease UCI Dataset  
-- **Source:** [Kaggle - Ronitf/heart-disease-uci](https://www.kaggle.com/datasets/ronitf/heart-disease-uci)  
+- **Source:** [Kaggle - Ronitf/heart-disease-uci](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?resource=download)  
 - **Format:** CSV (`heart.csv`)  
 - **Features:** Age, sex, chest pain type, resting blood pressure, cholesterol, fasting blood sugar, ECG results, max heart rate, exercise-induced angina, ST depression, etc.  
 - **Target:** `1` = has heart disease, `0` = no heart disease
