@@ -15,7 +15,7 @@ Explore and visualize the **Iris dataset** to understand feature relationships a
 - Feature distributions are fairly normal.
 - Dataset is clean, balanced, and contains no missing values.
 
----
+-----
 
 # Task 2: Predict Future Stock Prices (Short-Term)
 
@@ -53,7 +53,7 @@ The target variable is the **next day's closing price**, created by shifting the
 - Performance metrics (MAE and MSE) were within acceptable ranges for short-term stock predictions.
 - Features like `Open`, `High`, `Low`, and `Volume` provided useful signals for forecasting the next day’s price.
 
----
+-----
 
 # Task 3: Heart Disease Prediction
 
