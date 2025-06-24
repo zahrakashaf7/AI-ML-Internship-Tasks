@@ -57,7 +57,7 @@ The target variable is the **next day's closing price**, created by shifting the
 
 # Task 3: Heart Disease Prediction
 
-## Task Objective
+## Objective
 
 Build a classification model that predicts whether a patient is at risk of heart disease based on their clinical and health-related features.  
 This task uses real-world medical data to train and evaluate a binary classification model that can assist in early diagnosis.
