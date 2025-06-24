@@ -3,13 +3,13 @@
 
 # Task 1: Exploring and Visualizing a Simple Dataset
 
-## Objective:
+## Objective
 Explore and visualize the **Iris dataset** to understand feature relationships and data distribution using Python.
 
-## Dataset Used:
+## Dataset Used
 [Iris Dataset (built-in in Seaborn)](https://en.wikipedia.org/wiki/Iris_flower_data_set)
 
-## Key Results and Findings:
+## Key Results and Findings
 - Petal features clearly separate species visually and in classification.
 - Setosa flowers are clearly separable using petal features.
 - Feature distributions are fairly normal.
@@ -19,7 +19,7 @@ Explore and visualize the **Iris dataset** to understand feature relationships a
 
 # Task 2: Predict Future Stock Prices (Short-Term)
 
-## Objective:
+## Objective
 
 The goal of this task is to predict the **next day's closing stock price** using historical stock market data.  
 We utilize regression models to learn from historical trends and make short-term price forecasts.
@@ -94,11 +94,6 @@ This task uses real-world medical data to train and evaluate a binary classifica
 
 
 
-## Conclusion
-
-- The Logistic Regression model demonstrated strong performance in predicting heart disease risk based on patient data.
-- AUC score of 0.88 indicates the model can effectively distinguish between patients at risk and not at risk.
-- The model can serve as a basic decision-support tool and could be further improved with more complex features or ensemble methods.
 
 
 
