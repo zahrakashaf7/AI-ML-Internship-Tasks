@@ -1,7 +1,7 @@
-## AI-ML-Internship-Tasks
+# AI-ML-Internship-Tasks
  My tasks for the AI/ML Engineering Internship at DevelopersHub
 
-## Task 1: Exploring and Visualizing a Simple Dataset
+# Task 1: Exploring and Visualizing a Simple Dataset
 
 ## Objective:
 Explore and visualize the **Iris dataset** to understand feature relationships and data distribution using Python.
@@ -17,7 +17,7 @@ Explore and visualize the **Iris dataset** to understand feature relationships a
 
 -----
 
-## Task 2: Predict Future Stock Prices (Short-Term)
+# Task 2: Predict Future Stock Prices (Short-Term)
 
 ## Objective:
 
