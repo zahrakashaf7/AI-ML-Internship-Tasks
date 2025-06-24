@@ -15,6 +15,7 @@ Explore and visualize the **Iris dataset** to understand feature relationships a
 - Feature distributions are fairly normal.
 - Dataset is clean, balanced, and contains no missing values.
 
+---
 
 # Task 2: Predict Future Stock Prices (Short-Term)
 
@@ -52,6 +53,7 @@ The target variable is the **next day's closing price**, created by shifting the
 - Performance metrics (MAE and MSE) were within acceptable ranges for short-term stock predictions.
 - Features like `Open`, `High`, `Low`, and `Volume` provided useful signals for forecasting the next day’s price.
 
+---
 
 # Task 3: Heart Disease Prediction
 
@@ -60,7 +62,7 @@ The target variable is the **next day's closing price**, created by shifting the
 Build a classification model that predicts whether a patient is at risk of heart disease based on their clinical and health-related features.  
 This task uses real-world medical data to train and evaluate a binary classification model that can assist in early diagnosis.
 
----
+
 
 ## 📂 Dataset Used
 
@@ -70,14 +72,14 @@ This task uses real-world medical data to train and evaluate a binary classifica
 - **Features:** Age, sex, chest pain type, resting blood pressure, cholesterol, fasting blood sugar, ECG results, max heart rate, exercise-induced angina, ST depression, etc.  
 - **Target:** `1` = has heart disease, `0` = no heart disease
 
----
+
 
 ## 🧠 Models Applied
 
 - ✅ **Logistic Regression**  
   A linear classification model ideal for binary outcomes and interpretable in healthcare settings.
 
----
+
 
 ## 📊 Key Results and Findings
 
@@ -90,7 +92,7 @@ This task uses real-world medical data to train and evaluate a binary classifica
   - `oldpeak` (ST depression)
   - `slope` (slope of the peak exercise ST segment)
 
----
+
 
 ## ✅ Conclusion
 
